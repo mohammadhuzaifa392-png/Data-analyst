@@ -1,0 +1,8 @@
+CREATE TABLE product(
+prodid SMALLINT PRIMARY KEY,
+prodname VARCHAR (50) NOT NULL,
+catogery VARCHAR (25) NOT NULL,
+price NUMERIC (10,2) NOT NULL,
+quantity SMALLINT NOT NULL,
+amount NUMERIC (10,2) GENERATED ALWAYS AS (PRICE*quantity)
+)
