@@ -1,0 +1,16 @@
+INSERT INTO product (prodid,prodname,catogery,price,quantity)
+VALUES (01,'computer','electronic',5000,7),
+(102,'masager gun','electronic',700,12),
+(103,'mouse','electronic',250,18),
+(104,'smart watch','electronic',3500,5),
+(105,'mobile','electronic',8500,3),
+(106,'woolen shirt','cloths',700,25),
+(107,'baggy pants','cloths',650,18),
+(108,'foundation','cosmetics',850,13),
+(109,'makeup book','cosmetics',960,9),
+(1010,'lipstick','cosmetics',100,70),
+(1011,'wardrobe','furniture',6500,3),
+(1012,'bed','furniture',12000,3),
+(1013,'kabad','furmiture',4500,3),
+(1014,'keyboard','electronic',890,7),
+(1015,'butter chicken','food',230,7)

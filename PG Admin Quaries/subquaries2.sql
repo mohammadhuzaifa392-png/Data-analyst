@@ -1,0 +1,14 @@
+CREATE TABLE employee(
+emp_id SMALLINT PRIMARY KEY,
+emp_name VARCHAR(50) NOT NULL,
+city VARCHAR(30) NOT NULL,
+gender VARCHAR(10) NOT NULL,
+salary NUMERIC(10,2) NOT NULL,
+post VARCHAR(50) NOT NULL,
+dept_id SMALLINT NOT NULL
+);
+CREATE TABLE department(
+dept_id SMALLINT PRIMARY KEY,
+dept_name VARCHAR(50) NOT NULL,
+manager VAR
+);
