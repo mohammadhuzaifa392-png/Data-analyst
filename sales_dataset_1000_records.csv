@@ -1,0 +1,1001 @@
+order_id,product_name,category,price,qty,amount,order_date,city,payment_method
+1,Pen Pack,Stationery,19317,3,57951,2024-05-06,Hyderabad,UPI
+2,Notebook,Stationery,32544,2,65088,2025-10-16,Chennai,Debit Card
+3,Laptop,Electronics,3513,1,3513,2024-03-21,Indore,UPI
+4,Jeans,Fashion,27906,2,55812,2023-05-19,Jaipur,Debit Card
+5,Mixer Grinder,Home Appliances,11890,2,23780,2023-09-22,Chennai,Credit Card
+6,Shoes,Fashion,4060,4,16240,2024-11-02,Delhi,Net Banking
+7,Laptop,Electronics,9122,2,18244,2023-06-02,Mumbai,UPI
+8,Jeans,Fashion,18393,1,18393,2023-10-02,Hyderabad,Credit Card
+9,Jeans,Fashion,18828,3,56484,2024-07-08,Pune,Debit Card
+10,Jeans,Fashion,1039,4,4156,2025-02-16,Hyderabad,UPI
+11,Smartphone,Electronics,42222,5,211110,2023-01-14,Indore,Credit Card
+12,Air Fryer,Home Appliances,20714,3,62142,2024-02-10,Mumbai,Debit Card
+13,Air Fryer,Home Appliances,41775,4,167100,2025-11-04,Chennai,Cash
+14,Pen Pack,Stationery,32958,2,65916,2025-04-12,Hyderabad,Credit Card
+15,Laptop,Electronics,2768,1,2768,2023-02-26,Indore,UPI
+16,Air Fryer,Home Appliances,21577,4,86308,2023-02-24,Bengaluru,UPI
+17,Notebook,Stationery,7836,4,31344,2023-10-02,Bengaluru,Debit Card
+18,Notebook,Stationery,24501,1,24501,2023-02-21,Chennai,Debit Card
+19,T-Shirt,Fashion,1769,1,1769,2024-08-23,Jaipur,Debit Card
+20,Shoes,Fashion,30888,3,92664,2025-12-26,Chennai,Cash
+21,Shoes,Fashion,9395,5,46975,2023-07-15,Bengaluru,Credit Card
+22,Smartphone,Electronics,12931,4,51724,2025-06-09,Jaipur,Net Banking
+23,Laptop,Electronics,8612,5,43060,2024-04-21,Pune,Credit Card
+24,Smartphone,Electronics,37446,5,187230,2025-08-01,Jaipur,Credit Card
+25,Smartphone,Electronics,35634,1,35634,2024-06-21,Hyderabad,Credit Card
+26,Smartphone,Electronics,9720,5,48600,2024-05-18,Mumbai,UPI
+27,Air Fryer,Home Appliances,16864,5,84320,2023-02-28,Delhi,Credit Card
+28,Shoes,Fashion,40882,3,122646,2024-12-18,Kolkata,UPI
+29,Notebook,Stationery,30282,4,121128,2024-02-18,Chennai,Credit Card
+30,T-Shirt,Fashion,45932,4,183728,2025-11-15,Bengaluru,Net Banking
+31,Mixer Grinder,Home Appliances,26169,4,104676,2023-07-05,Mumbai,Net Banking
+32,Smartphone,Electronics,36741,5,183705,2024-06-29,Pune,UPI
+33,Air Fryer,Home Appliances,25566,2,51132,2023-05-28,Indore,Credit Card
+34,Mixer Grinder,Home Appliances,10988,3,32964,2025-12-07,Delhi,UPI
+35,Pen Pack,Stationery,23493,4,93972,2023-09-06,Ahmedabad,Debit Card
+36,Smartphone,Electronics,30478,1,30478,2023-04-10,Bengaluru,Credit Card
+37,T-Shirt,Fashion,5777,5,28885,2025-04-27,Kolkata,Debit Card
+38,Laptop,Electronics,44014,2,88028,2024-03-03,Kolkata,Cash
+39,Mixer Grinder,Home Appliances,29072,1,29072,2023-09-04,Bengaluru,Credit Card
+40,Notebook,Stationery,33824,1,33824,2024-11-21,Indore,Credit Card
+41,Smartphone,Electronics,40335,3,121005,2023-01-14,Hyderabad,Cash
+42,Pen Pack,Stationery,11309,1,11309,2023-06-10,Ahmedabad,Debit Card
+43,T-Shirt,Fashion,2107,3,6321,2023-01-14,Jaipur,Credit Card
+44,Headphones,Electronics,12784,1,12784,2025-02-21,Kolkata,Net Banking
+45,Headphones,Electronics,10723,3,32169,2023-12-23,Pune,Cash
+46,Headphones,Electronics,24627,4,98508,2025-05-29,Mumbai,Credit Card
+47,Smartphone,Electronics,49410,5,247050,2024-05-03,Mumbai,Net Banking
+48,Air Fryer,Home Appliances,5560,3,16680,2024-11-15,Bengaluru,Net Banking
+49,Air Fryer,Home Appliances,19583,3,58749,2025-10-30,Delhi,Net Banking
+50,Laptop,Electronics,49080,3,147240,2024-06-03,Hyderabad,Cash
+51,Mixer Grinder,Home Appliances,15991,4,63964,2023-08-25,Indore,Net Banking
+52,Mixer Grinder,Home Appliances,36071,5,180355,2025-12-08,Bengaluru,UPI
+53,T-Shirt,Fashion,13298,1,13298,2023-06-22,Mumbai,Cash
+54,Mixer Grinder,Home Appliances,4164,5,20820,2024-05-23,Pune,Net Banking
+55,Mixer Grinder,Home Appliances,11913,2,23826,2023-06-10,Indore,Net Banking
+56,Mixer Grinder,Home Appliances,37048,3,111144,2023-01-04,Pune,UPI
+57,Headphones,Electronics,10489,5,52445,2023-06-27,Jaipur,Credit Card
+58,Shoes,Fashion,44286,2,88572,2024-08-26,Indore,Cash
+59,Jeans,Fashion,14758,2,29516,2023-04-19,Ahmedabad,Cash
+60,Notebook,Stationery,17640,4,70560,2025-07-04,Jaipur,Cash
+61,T-Shirt,Fashion,12330,5,61650,2024-05-17,Pune,Net Banking
+62,Notebook,Stationery,22506,4,90024,2025-06-14,Jaipur,Debit Card
+63,T-Shirt,Fashion,33606,5,168030,2025-10-11,Ahmedabad,Net Banking
+64,T-Shirt,Fashion,34997,4,139988,2024-11-11,Jaipur,Net Banking
+65,Laptop,Electronics,46368,2,92736,2024-06-20,Mumbai,UPI
+66,Jeans,Fashion,47268,3,141804,2023-12-06,Bengaluru,Credit Card
+67,Jeans,Fashion,3631,4,14524,2024-02-27,Mumbai,Net Banking
+68,Smartphone,Electronics,36055,4,144220,2024-11-23,Mumbai,Debit Card
+69,Shoes,Fashion,45951,1,45951,2025-01-22,Pune,Net Banking
+70,Jeans,Fashion,866,1,866,2023-09-05,Indore,Net Banking
+71,Mixer Grinder,Home Appliances,6271,3,18813,2025-02-28,Jaipur,Debit Card
+72,Notebook,Stationery,18935,3,56805,2025-07-07,Chennai,Cash
+73,Laptop,Electronics,36644,5,183220,2024-08-30,Kolkata,Credit Card
+74,Jeans,Fashion,36663,2,73326,2024-10-03,Delhi,Net Banking
+75,Air Fryer,Home Appliances,31436,4,125744,2024-01-01,Chennai,UPI
+76,Air Fryer,Home Appliances,41359,4,165436,2023-09-21,Ahmedabad,Credit Card
+77,Air Fryer,Home Appliances,35785,1,35785,2023-11-25,Indore,Cash
+78,Headphones,Electronics,1972,1,1972,2025-09-19,Hyderabad,UPI
+79,Smartphone,Electronics,47402,2,94804,2025-02-01,Jaipur,Net Banking
+80,Notebook,Stationery,6746,5,33730,2025-11-21,Bengaluru,Cash
+81,Mixer Grinder,Home Appliances,27422,4,109688,2024-02-09,Mumbai,Credit Card
+82,Smartphone,Electronics,12540,5,62700,2025-04-17,Pune,Credit Card
+83,Shoes,Fashion,29110,5,145550,2024-05-27,Bengaluru,UPI
+84,Notebook,Stationery,46505,3,139515,2023-10-13,Ahmedabad,Cash
+85,Laptop,Electronics,36366,5,181830,2023-01-17,Kolkata,UPI
+86,Headphones,Electronics,39411,1,39411,2025-09-11,Indore,Credit Card
+87,Air Fryer,Home Appliances,38074,5,190370,2023-01-16,Indore,Net Banking
+88,Headphones,Electronics,31496,4,125984,2024-12-29,Mumbai,Debit Card
+89,T-Shirt,Fashion,24040,5,120200,2025-09-07,Kolkata,Cash
+90,Shoes,Fashion,21544,4,86176,2025-05-20,Indore,Cash
+91,Shoes,Fashion,2772,5,13860,2024-12-24,Chennai,Credit Card
+92,Headphones,Electronics,6830,2,13660,2024-03-07,Kolkata,Net Banking
+93,Laptop,Electronics,21047,3,63141,2023-09-04,Chennai,UPI
+94,Shoes,Fashion,12135,1,12135,2023-09-11,Jaipur,UPI
+95,Air Fryer,Home Appliances,8052,3,24156,2025-12-19,Chennai,Credit Card
+96,Headphones,Electronics,37621,2,75242,2023-07-27,Indore,Net Banking
+97,Laptop,Electronics,11627,4,46508,2024-10-13,Hyderabad,Debit Card
+98,Mixer Grinder,Home Appliances,35694,1,35694,2023-11-17,Hyderabad,Credit Card
+99,Pen Pack,Stationery,36089,2,72178,2024-05-30,Kolkata,UPI
+100,Pen Pack,Stationery,2103,4,8412,2023-06-06,Chennai,Debit Card
+101,Jeans,Fashion,20110,1,20110,2024-05-02,Ahmedabad,Debit Card
+102,Shoes,Fashion,1993,3,5979,2023-08-13,Ahmedabad,UPI
+103,Smartphone,Electronics,7388,3,22164,2023-07-08,Ahmedabad,UPI
+104,Headphones,Electronics,29371,5,146855,2023-08-12,Chennai,Net Banking
+105,T-Shirt,Fashion,4346,5,21730,2024-10-26,Jaipur,Cash
+106,Laptop,Electronics,44799,4,179196,2025-10-18,Jaipur,Net Banking
+107,T-Shirt,Fashion,3454,5,17270,2023-07-15,Delhi,Credit Card
+108,Pen Pack,Stationery,42728,4,170912,2024-02-24,Kolkata,Debit Card
+109,Notebook,Stationery,20276,3,60828,2025-04-09,Hyderabad,Credit Card
+110,Jeans,Fashion,8259,3,24777,2023-07-21,Jaipur,Net Banking
+111,Air Fryer,Home Appliances,14574,4,58296,2023-05-20,Hyderabad,Net Banking
+112,Headphones,Electronics,29507,2,59014,2025-07-02,Indore,Net Banking
+113,Pen Pack,Stationery,46318,4,185272,2024-10-13,Jaipur,Net Banking
+114,Shoes,Fashion,36933,4,147732,2025-08-05,Mumbai,Net Banking
+115,Air Fryer,Home Appliances,15156,5,75780,2023-11-07,Bengaluru,Debit Card
+116,Air Fryer,Home Appliances,31257,5,156285,2025-10-09,Hyderabad,Debit Card
+117,T-Shirt,Fashion,40880,2,81760,2025-05-03,Indore,Net Banking
+118,T-Shirt,Fashion,38755,2,77510,2024-10-16,Bengaluru,Net Banking
+119,Pen Pack,Stationery,450,1,450,2023-09-13,Hyderabad,Net Banking
+120,Headphones,Electronics,49573,2,99146,2025-07-30,Hyderabad,UPI
+121,Mixer Grinder,Home Appliances,37362,3,112086,2023-05-23,Pune,Credit Card
+122,Pen Pack,Stationery,1929,4,7716,2023-11-06,Pune,Credit Card
+123,Notebook,Stationery,10666,3,31998,2024-11-02,Bengaluru,Net Banking
+124,T-Shirt,Fashion,19290,1,19290,2023-03-22,Chennai,Credit Card
+125,Pen Pack,Stationery,34351,3,103053,2023-01-10,Chennai,UPI
+126,Air Fryer,Home Appliances,33401,3,100203,2024-11-08,Indore,UPI
+127,Pen Pack,Stationery,18680,2,37360,2024-01-23,Indore,Credit Card
+128,Jeans,Fashion,29364,1,29364,2024-08-29,Hyderabad,Cash
+129,Mixer Grinder,Home Appliances,29779,2,59558,2023-07-08,Jaipur,Credit Card
+130,Notebook,Stationery,25733,2,51466,2025-07-09,Chennai,UPI
+131,Notebook,Stationery,2879,1,2879,2025-01-15,Jaipur,UPI
+132,Laptop,Electronics,33734,3,101202,2023-07-30,Mumbai,Debit Card
+133,Jeans,Fashion,30799,2,61598,2024-12-11,Jaipur,Net Banking
+134,Headphones,Electronics,46131,5,230655,2025-11-01,Jaipur,Credit Card
+135,Shoes,Fashion,24157,3,72471,2025-10-13,Ahmedabad,Cash
+136,Notebook,Stationery,5662,5,28310,2024-06-13,Ahmedabad,Credit Card
+137,T-Shirt,Fashion,45763,1,45763,2024-03-28,Bengaluru,Net Banking
+138,Air Fryer,Home Appliances,46485,1,46485,2024-11-26,Hyderabad,Credit Card
+139,Laptop,Electronics,5125,5,25625,2025-10-19,Hyderabad,Credit Card
+140,Pen Pack,Stationery,2330,5,11650,2024-11-02,Jaipur,UPI
+141,Pen Pack,Stationery,32550,4,130200,2024-03-04,Bengaluru,Net Banking
+142,Headphones,Electronics,3733,5,18665,2024-04-17,Delhi,Credit Card
+143,Smartphone,Electronics,39321,2,78642,2024-04-14,Kolkata,Debit Card
+144,Smartphone,Electronics,11126,2,22252,2024-03-22,Hyderabad,Debit Card
+145,Smartphone,Electronics,34970,5,174850,2023-06-28,Pune,UPI
+146,Notebook,Stationery,33864,1,33864,2025-05-27,Pune,Credit Card
+147,Mixer Grinder,Home Appliances,3833,5,19165,2023-02-23,Ahmedabad,UPI
+148,Jeans,Fashion,46811,1,46811,2024-05-18,Delhi,Debit Card
+149,Headphones,Electronics,3801,1,3801,2024-06-14,Bengaluru,UPI
+150,Notebook,Stationery,3727,3,11181,2023-04-08,Pune,Cash
+151,Shoes,Fashion,22140,5,110700,2023-11-11,Chennai,Net Banking
+152,T-Shirt,Fashion,48053,2,96106,2023-04-26,Jaipur,Net Banking
+153,Smartphone,Electronics,25667,3,77001,2024-06-29,Ahmedabad,Cash
+154,T-Shirt,Fashion,23782,2,47564,2024-09-10,Delhi,Cash
+155,Headphones,Electronics,37578,4,150312,2025-01-17,Chennai,Cash
+156,Mixer Grinder,Home Appliances,2628,4,10512,2025-04-03,Chennai,Net Banking
+157,Headphones,Electronics,31377,4,125508,2024-07-22,Delhi,Net Banking
+158,Headphones,Electronics,29780,2,59560,2023-04-19,Ahmedabad,Net Banking
+159,Jeans,Fashion,42958,3,128874,2024-01-10,Mumbai,Debit Card
+160,Mixer Grinder,Home Appliances,36217,4,144868,2025-01-24,Chennai,UPI
+161,Shoes,Fashion,9170,2,18340,2025-12-27,Jaipur,Cash
+162,Headphones,Electronics,24711,2,49422,2025-07-13,Pune,UPI
+163,Mixer Grinder,Home Appliances,22230,4,88920,2024-06-23,Ahmedabad,UPI
+164,T-Shirt,Fashion,22713,1,22713,2023-03-29,Ahmedabad,Credit Card
+165,Pen Pack,Stationery,45194,3,135582,2024-01-22,Bengaluru,Debit Card
+166,Pen Pack,Stationery,15721,1,15721,2025-08-10,Mumbai,Debit Card
+167,T-Shirt,Fashion,22956,2,45912,2025-11-28,Pune,UPI
+168,Laptop,Electronics,30750,5,153750,2023-10-03,Delhi,UPI
+169,Pen Pack,Stationery,46285,2,92570,2024-10-31,Kolkata,UPI
+170,Air Fryer,Home Appliances,8527,5,42635,2023-11-07,Delhi,Cash
+171,Headphones,Electronics,15494,2,30988,2024-03-31,Delhi,Credit Card
+172,Smartphone,Electronics,21634,1,21634,2024-12-09,Ahmedabad,Net Banking
+173,Smartphone,Electronics,29149,5,145745,2024-04-14,Delhi,Debit Card
+174,Pen Pack,Stationery,43768,1,43768,2024-02-19,Mumbai,Debit Card
+175,T-Shirt,Fashion,2373,4,9492,2025-06-02,Kolkata,Net Banking
+176,Smartphone,Electronics,43013,1,43013,2023-12-18,Kolkata,Credit Card
+177,Jeans,Fashion,11850,5,59250,2025-06-26,Delhi,Debit Card
+178,Pen Pack,Stationery,3610,4,14440,2023-02-21,Delhi,Cash
+179,Air Fryer,Home Appliances,28138,3,84414,2025-11-01,Pune,Cash
+180,Headphones,Electronics,11721,4,46884,2023-09-13,Chennai,UPI
+181,Shoes,Fashion,1963,2,3926,2023-07-08,Ahmedabad,Debit Card
+182,Smartphone,Electronics,12397,4,49588,2025-12-27,Mumbai,Cash
+183,Pen Pack,Stationery,19629,3,58887,2024-11-10,Mumbai,Debit Card
+184,Headphones,Electronics,26357,4,105428,2023-09-27,Jaipur,Credit Card
+185,T-Shirt,Fashion,38388,3,115164,2023-04-05,Bengaluru,UPI
+186,Headphones,Electronics,5915,3,17745,2024-05-14,Ahmedabad,Debit Card
+187,Air Fryer,Home Appliances,11112,1,11112,2024-10-21,Indore,Cash
+188,Laptop,Electronics,40690,2,81380,2025-12-20,Pune,Cash
+189,Headphones,Electronics,40647,2,81294,2025-11-22,Mumbai,Net Banking
+190,Smartphone,Electronics,27925,4,111700,2024-11-16,Jaipur,Credit Card
+191,Notebook,Stationery,16680,4,66720,2024-03-03,Jaipur,UPI
+192,Jeans,Fashion,7001,2,14002,2025-03-05,Delhi,Credit Card
+193,Smartphone,Electronics,1949,1,1949,2025-11-16,Pune,Debit Card
+194,T-Shirt,Fashion,28122,5,140610,2025-08-13,Jaipur,Debit Card
+195,T-Shirt,Fashion,15402,1,15402,2023-05-19,Pune,Debit Card
+196,Laptop,Electronics,1348,3,4044,2025-08-27,Chennai,Net Banking
+197,Smartphone,Electronics,40903,5,204515,2024-02-05,Ahmedabad,Debit Card
+198,Mixer Grinder,Home Appliances,31087,1,31087,2025-04-24,Mumbai,Net Banking
+199,Headphones,Electronics,2887,5,14435,2025-09-04,Pune,Credit Card
+200,Shoes,Fashion,14857,3,44571,2023-02-21,Jaipur,Cash
+201,T-Shirt,Fashion,33869,1,33869,2025-04-08,Pune,Cash
+202,Air Fryer,Home Appliances,39318,1,39318,2023-05-02,Indore,Net Banking
+203,T-Shirt,Fashion,37382,1,37382,2023-06-13,Mumbai,Net Banking
+204,Headphones,Electronics,11909,4,47636,2024-02-06,Kolkata,Cash
+205,Laptop,Electronics,44366,4,177464,2024-09-10,Jaipur,Debit Card
+206,Jeans,Fashion,2058,1,2058,2024-05-18,Bengaluru,Net Banking
+207,Shoes,Fashion,37841,4,151364,2025-09-16,Jaipur,UPI
+208,Shoes,Fashion,43976,3,131928,2024-04-23,Kolkata,Credit Card
+209,Notebook,Stationery,23516,1,23516,2023-04-08,Chennai,Net Banking
+210,Pen Pack,Stationery,1189,1,1189,2025-12-26,Hyderabad,Debit Card
+211,Headphones,Electronics,35709,2,71418,2023-01-31,Indore,Debit Card
+212,Pen Pack,Stationery,17900,4,71600,2023-02-23,Indore,Net Banking
+213,Mixer Grinder,Home Appliances,29478,4,117912,2024-09-02,Kolkata,Credit Card
+214,Shoes,Fashion,2336,5,11680,2024-11-17,Bengaluru,Credit Card
+215,Air Fryer,Home Appliances,25634,5,128170,2024-08-30,Jaipur,Debit Card
+216,Notebook,Stationery,16560,5,82800,2024-08-08,Bengaluru,UPI
+217,Shoes,Fashion,45598,1,45598,2025-05-08,Chennai,Credit Card
+218,Smartphone,Electronics,39490,2,78980,2023-05-02,Ahmedabad,Cash
+219,Notebook,Stationery,5949,5,29745,2023-06-24,Indore,Net Banking
+220,Laptop,Electronics,38109,2,76218,2024-05-14,Kolkata,Credit Card
+221,Notebook,Stationery,24124,1,24124,2023-07-27,Chennai,Cash
+222,Mixer Grinder,Home Appliances,42536,4,170144,2024-12-06,Kolkata,Cash
+223,Pen Pack,Stationery,5290,1,5290,2025-09-22,Jaipur,Debit Card
+224,Mixer Grinder,Home Appliances,18996,3,56988,2025-04-02,Jaipur,Debit Card
+225,Smartphone,Electronics,33299,1,33299,2025-09-04,Indore,Cash
+226,Laptop,Electronics,40879,3,122637,2023-10-26,Jaipur,Debit Card
+227,Laptop,Electronics,39299,4,157196,2023-01-29,Bengaluru,Credit Card
+228,Air Fryer,Home Appliances,4537,1,4537,2023-05-09,Bengaluru,Net Banking
+229,Pen Pack,Stationery,44349,2,88698,2025-07-19,Ahmedabad,Cash
+230,T-Shirt,Fashion,32683,2,65366,2024-02-11,Mumbai,Debit Card
+231,Headphones,Electronics,43771,1,43771,2023-08-10,Delhi,Debit Card
+232,Pen Pack,Stationery,12682,2,25364,2024-08-15,Kolkata,UPI
+233,Pen Pack,Stationery,34071,5,170355,2024-10-24,Kolkata,Cash
+234,Laptop,Electronics,27419,2,54838,2024-08-17,Jaipur,UPI
+235,Air Fryer,Home Appliances,16921,3,50763,2023-02-11,Hyderabad,Credit Card
+236,Jeans,Fashion,45491,2,90982,2024-02-23,Chennai,Credit Card
+237,Air Fryer,Home Appliances,39932,4,159728,2024-12-23,Delhi,Credit Card
+238,T-Shirt,Fashion,49600,1,49600,2023-02-04,Chennai,Debit Card
+239,Notebook,Stationery,28713,4,114852,2025-02-05,Ahmedabad,Debit Card
+240,Headphones,Electronics,6474,5,32370,2025-09-27,Mumbai,Debit Card
+241,Mixer Grinder,Home Appliances,39398,3,118194,2025-12-05,Jaipur,Debit Card
+242,Mixer Grinder,Home Appliances,12701,2,25402,2023-11-19,Hyderabad,Debit Card
+243,Mixer Grinder,Home Appliances,42892,4,171568,2023-11-11,Bengaluru,Cash
+244,Mixer Grinder,Home Appliances,537,5,2685,2025-04-06,Bengaluru,Debit Card
+245,Shoes,Fashion,11519,1,11519,2024-11-24,Ahmedabad,Net Banking
+246,Notebook,Stationery,359,5,1795,2025-12-11,Hyderabad,Net Banking
+247,Laptop,Electronics,2742,5,13710,2024-09-02,Jaipur,Net Banking
+248,Smartphone,Electronics,11368,5,56840,2025-02-10,Chennai,Credit Card
+249,Air Fryer,Home Appliances,1237,4,4948,2023-11-10,Hyderabad,Credit Card
+250,Air Fryer,Home Appliances,44349,3,133047,2025-05-03,Hyderabad,Cash
+251,Notebook,Stationery,32766,1,32766,2025-05-20,Bengaluru,Cash
+252,Jeans,Fashion,7417,2,14834,2023-01-18,Jaipur,Cash
+253,Laptop,Electronics,21781,5,108905,2024-12-28,Jaipur,Debit Card
+254,Mixer Grinder,Home Appliances,36434,2,72868,2023-04-10,Hyderabad,UPI
+255,Notebook,Stationery,8817,1,8817,2025-09-29,Jaipur,Net Banking
+256,T-Shirt,Fashion,37852,1,37852,2023-11-27,Jaipur,Net Banking
+257,Notebook,Stationery,28197,2,56394,2023-09-02,Hyderabad,Credit Card
+258,Mixer Grinder,Home Appliances,11860,5,59300,2023-10-15,Delhi,Net Banking
+259,Air Fryer,Home Appliances,29531,4,118124,2024-06-15,Jaipur,Net Banking
+260,Mixer Grinder,Home Appliances,40138,2,80276,2025-04-17,Kolkata,Cash
+261,Air Fryer,Home Appliances,9372,3,28116,2024-01-02,Chennai,Credit Card
+262,Headphones,Electronics,18499,2,36998,2024-07-28,Hyderabad,UPI
+263,Mixer Grinder,Home Appliances,20294,3,60882,2023-02-11,Ahmedabad,Credit Card
+264,Headphones,Electronics,24274,4,97096,2024-02-15,Chennai,Credit Card
+265,Mixer Grinder,Home Appliances,38587,1,38587,2023-12-17,Kolkata,Credit Card
+266,Air Fryer,Home Appliances,39109,3,117327,2024-08-14,Ahmedabad,Net Banking
+267,Headphones,Electronics,10984,5,54920,2023-04-25,Indore,Credit Card
+268,Headphones,Electronics,11288,4,45152,2023-01-16,Jaipur,Debit Card
+269,T-Shirt,Fashion,31349,1,31349,2024-04-29,Mumbai,Net Banking
+270,Jeans,Fashion,19616,2,39232,2025-01-17,Ahmedabad,UPI
+271,Mixer Grinder,Home Appliances,4109,4,16436,2023-06-25,Pune,Cash
+272,Headphones,Electronics,5088,3,15264,2023-12-11,Mumbai,Net Banking
+273,Headphones,Electronics,32894,3,98682,2024-01-27,Ahmedabad,Credit Card
+274,Shoes,Fashion,23342,2,46684,2025-12-26,Chennai,Debit Card
+275,Air Fryer,Home Appliances,25491,3,76473,2025-09-21,Pune,Cash
+276,Laptop,Electronics,31853,2,63706,2023-01-25,Indore,Credit Card
+277,Notebook,Stationery,24020,5,120100,2025-12-08,Ahmedabad,Credit Card
+278,Mixer Grinder,Home Appliances,42015,1,42015,2025-01-03,Delhi,Credit Card
+279,Headphones,Electronics,23436,1,23436,2024-05-27,Delhi,Net Banking
+280,Shoes,Fashion,11173,4,44692,2024-08-12,Jaipur,Cash
+281,Air Fryer,Home Appliances,44114,1,44114,2023-05-06,Jaipur,Credit Card
+282,Smartphone,Electronics,31774,2,63548,2025-06-25,Delhi,Net Banking
+283,Laptop,Electronics,27013,3,81039,2023-12-02,Ahmedabad,Cash
+284,Shoes,Fashion,21727,2,43454,2023-06-01,Hyderabad,Net Banking
+285,Pen Pack,Stationery,24902,1,24902,2023-05-18,Mumbai,Debit Card
+286,Shoes,Fashion,14934,2,29868,2025-06-07,Jaipur,Cash
+287,Notebook,Stationery,9819,3,29457,2025-12-11,Bengaluru,Credit Card
+288,Mixer Grinder,Home Appliances,16258,2,32516,2024-01-22,Delhi,Debit Card
+289,Air Fryer,Home Appliances,10826,3,32478,2025-04-18,Delhi,Net Banking
+290,Notebook,Stationery,632,1,632,2024-08-02,Kolkata,Cash
+291,Pen Pack,Stationery,5136,2,10272,2024-02-13,Kolkata,Cash
+292,Air Fryer,Home Appliances,31623,1,31623,2024-08-18,Mumbai,Credit Card
+293,Smartphone,Electronics,22896,3,68688,2024-02-29,Bengaluru,Cash
+294,Notebook,Stationery,10701,3,32103,2025-12-09,Pune,Credit Card
+295,Mixer Grinder,Home Appliances,25488,5,127440,2025-07-01,Kolkata,Credit Card
+296,Headphones,Electronics,11572,2,23144,2023-09-08,Ahmedabad,Net Banking
+297,T-Shirt,Fashion,13560,3,40680,2025-05-31,Chennai,Cash
+298,Mixer Grinder,Home Appliances,16984,5,84920,2024-10-07,Kolkata,Net Banking
+299,Notebook,Stationery,20079,1,20079,2023-02-15,Mumbai,Debit Card
+300,Air Fryer,Home Appliances,1055,1,1055,2025-07-11,Pune,Debit Card
+301,Jeans,Fashion,25563,2,51126,2025-02-15,Pune,Cash
+302,Shoes,Fashion,39412,5,197060,2025-12-21,Bengaluru,Debit Card
+303,Jeans,Fashion,29349,1,29349,2025-09-17,Pune,Debit Card
+304,Air Fryer,Home Appliances,6623,3,19869,2023-01-28,Mumbai,Debit Card
+305,Air Fryer,Home Appliances,43444,4,173776,2023-05-23,Pune,Cash
+306,Smartphone,Electronics,34801,3,104403,2023-12-19,Jaipur,Cash
+307,Notebook,Stationery,42193,1,42193,2024-01-13,Bengaluru,Net Banking
+308,Mixer Grinder,Home Appliances,18679,3,56037,2023-12-31,Delhi,Credit Card
+309,Headphones,Electronics,4111,5,20555,2024-10-08,Ahmedabad,Debit Card
+310,Headphones,Electronics,35169,3,105507,2025-04-08,Delhi,Net Banking
+311,Mixer Grinder,Home Appliances,35295,1,35295,2025-07-19,Delhi,Debit Card
+312,Mixer Grinder,Home Appliances,49733,2,99466,2024-12-25,Mumbai,Credit Card
+313,Headphones,Electronics,16239,3,48717,2023-07-19,Jaipur,UPI
+314,Smartphone,Electronics,27258,5,136290,2025-08-16,Jaipur,Credit Card
+315,Pen Pack,Stationery,1017,5,5085,2025-02-05,Bengaluru,Net Banking
+316,Smartphone,Electronics,9509,1,9509,2023-04-20,Mumbai,Credit Card
+317,Jeans,Fashion,37437,2,74874,2023-05-22,Delhi,Debit Card
+318,Mixer Grinder,Home Appliances,3783,5,18915,2023-03-01,Chennai,Cash
+319,Pen Pack,Stationery,46298,4,185192,2025-02-18,Kolkata,UPI
+320,Headphones,Electronics,16291,3,48873,2024-10-16,Pune,UPI
+321,Laptop,Electronics,31452,5,157260,2024-04-26,Hyderabad,Credit Card
+322,Shoes,Fashion,34775,1,34775,2024-04-14,Jaipur,UPI
+323,Air Fryer,Home Appliances,10671,4,42684,2023-11-24,Delhi,Credit Card
+324,Pen Pack,Stationery,38247,1,38247,2025-06-04,Pune,Credit Card
+325,Notebook,Stationery,16403,1,16403,2024-04-10,Hyderabad,Debit Card
+326,Notebook,Stationery,32933,3,98799,2023-07-17,Delhi,Credit Card
+327,Notebook,Stationery,46169,5,230845,2025-06-30,Indore,Debit Card
+328,Pen Pack,Stationery,993,4,3972,2023-05-22,Pune,Debit Card
+329,Shoes,Fashion,39169,4,156676,2024-12-13,Bengaluru,Net Banking
+330,Mixer Grinder,Home Appliances,20769,2,41538,2023-08-05,Ahmedabad,Cash
+331,Notebook,Stationery,27013,4,108052,2025-05-12,Chennai,Cash
+332,Shoes,Fashion,34276,1,34276,2024-06-21,Delhi,Debit Card
+333,Notebook,Stationery,2167,3,6501,2024-08-09,Chennai,UPI
+334,Laptop,Electronics,10986,1,10986,2024-07-11,Ahmedabad,Credit Card
+335,Notebook,Stationery,26105,4,104420,2024-06-03,Pune,Credit Card
+336,T-Shirt,Fashion,692,5,3460,2024-03-31,Pune,Credit Card
+337,Jeans,Fashion,40325,2,80650,2024-07-21,Jaipur,Debit Card
+338,Laptop,Electronics,14962,4,59848,2025-03-30,Jaipur,Cash
+339,Smartphone,Electronics,22952,2,45904,2023-05-10,Hyderabad,Net Banking
+340,Air Fryer,Home Appliances,38180,5,190900,2023-07-29,Delhi,Net Banking
+341,Pen Pack,Stationery,2487,3,7461,2024-09-10,Bengaluru,UPI
+342,Air Fryer,Home Appliances,9757,4,39028,2024-04-21,Hyderabad,Cash
+343,Pen Pack,Stationery,5055,2,10110,2024-06-12,Kolkata,Credit Card
+344,Jeans,Fashion,15224,4,60896,2023-05-09,Chennai,Cash
+345,Jeans,Fashion,33925,5,169625,2024-12-07,Hyderabad,Cash
+346,Mixer Grinder,Home Appliances,27080,3,81240,2025-01-17,Jaipur,Credit Card
+347,Mixer Grinder,Home Appliances,43004,5,215020,2025-06-30,Ahmedabad,Credit Card
+348,Shoes,Fashion,42380,5,211900,2024-06-08,Hyderabad,Net Banking
+349,Headphones,Electronics,26542,4,106168,2024-07-25,Pune,UPI
+350,Laptop,Electronics,19777,3,59331,2025-03-19,Indore,Debit Card
+351,Notebook,Stationery,3961,2,7922,2023-03-13,Chennai,Net Banking
+352,T-Shirt,Fashion,24326,5,121630,2023-12-09,Hyderabad,Credit Card
+353,Laptop,Electronics,41480,4,165920,2023-05-13,Ahmedabad,Net Banking
+354,Shoes,Fashion,40337,4,161348,2025-08-04,Hyderabad,Credit Card
+355,Air Fryer,Home Appliances,40377,5,201885,2023-02-14,Indore,UPI
+356,Air Fryer,Home Appliances,19400,4,77600,2024-09-28,Ahmedabad,Debit Card
+357,Jeans,Fashion,11268,3,33804,2023-09-20,Delhi,UPI
+358,Smartphone,Electronics,21180,4,84720,2024-08-29,Kolkata,UPI
+359,Shoes,Fashion,40459,3,121377,2024-02-07,Chennai,Debit Card
+360,Notebook,Stationery,6636,1,6636,2023-06-28,Bengaluru,Net Banking
+361,Jeans,Fashion,18086,3,54258,2025-06-29,Hyderabad,Debit Card
+362,Smartphone,Electronics,23615,1,23615,2023-01-05,Bengaluru,Net Banking
+363,Notebook,Stationery,15698,2,31396,2024-02-15,Mumbai,Debit Card
+364,Shoes,Fashion,37924,2,75848,2023-09-25,Pune,Net Banking
+365,Mixer Grinder,Home Appliances,42582,5,212910,2025-09-18,Chennai,UPI
+366,Laptop,Electronics,45951,2,91902,2023-09-12,Ahmedabad,Cash
+367,Air Fryer,Home Appliances,19686,2,39372,2025-09-05,Kolkata,Cash
+368,Shoes,Fashion,42750,2,85500,2023-08-10,Indore,Credit Card
+369,Mixer Grinder,Home Appliances,5299,5,26495,2025-07-13,Kolkata,UPI
+370,Air Fryer,Home Appliances,15479,4,61916,2023-07-20,Ahmedabad,Credit Card
+371,Notebook,Stationery,12173,1,12173,2023-07-19,Kolkata,Cash
+372,Headphones,Electronics,2793,4,11172,2025-12-14,Kolkata,Debit Card
+373,Smartphone,Electronics,14964,4,59856,2023-05-06,Pune,UPI
+374,Mixer Grinder,Home Appliances,24541,3,73623,2025-09-16,Ahmedabad,Net Banking
+375,T-Shirt,Fashion,23634,3,70902,2025-10-13,Delhi,Credit Card
+376,Smartphone,Electronics,22516,1,22516,2025-05-31,Delhi,Net Banking
+377,T-Shirt,Fashion,31135,2,62270,2024-08-07,Chennai,Debit Card
+378,Air Fryer,Home Appliances,10220,4,40880,2024-08-25,Chennai,Net Banking
+379,Pen Pack,Stationery,2458,1,2458,2023-02-17,Delhi,Debit Card
+380,Smartphone,Electronics,321,3,963,2025-05-25,Mumbai,Net Banking
+381,Pen Pack,Stationery,3685,4,14740,2023-07-20,Ahmedabad,Net Banking
+382,Headphones,Electronics,41391,5,206955,2024-09-12,Pune,Debit Card
+383,Laptop,Electronics,10266,5,51330,2024-07-07,Chennai,Net Banking
+384,T-Shirt,Fashion,22987,5,114935,2024-02-05,Jaipur,UPI
+385,Air Fryer,Home Appliances,20906,1,20906,2023-10-20,Ahmedabad,Debit Card
+386,T-Shirt,Fashion,8701,3,26103,2025-07-04,Chennai,Cash
+387,Pen Pack,Stationery,38178,2,76356,2025-03-23,Pune,UPI
+388,Smartphone,Electronics,13087,3,39261,2024-02-12,Mumbai,UPI
+389,Smartphone,Electronics,29252,5,146260,2024-02-06,Jaipur,Debit Card
+390,Mixer Grinder,Home Appliances,24651,2,49302,2025-02-21,Mumbai,Net Banking
+391,Shoes,Fashion,35491,5,177455,2025-03-31,Mumbai,Net Banking
+392,Notebook,Stationery,16737,3,50211,2024-01-03,Pune,UPI
+393,Laptop,Electronics,20214,2,40428,2025-12-07,Bengaluru,UPI
+394,Notebook,Stationery,45061,1,45061,2025-04-30,Delhi,UPI
+395,Mixer Grinder,Home Appliances,32561,3,97683,2023-03-13,Hyderabad,Debit Card
+396,Laptop,Electronics,26254,4,105016,2025-12-16,Mumbai,Credit Card
+397,Air Fryer,Home Appliances,47607,1,47607,2025-01-03,Ahmedabad,UPI
+398,Shoes,Fashion,20380,3,61140,2023-04-15,Chennai,UPI
+399,Smartphone,Electronics,39163,4,156652,2024-09-01,Indore,UPI
+400,Jeans,Fashion,35801,5,179005,2024-01-26,Mumbai,Cash
+401,T-Shirt,Fashion,44916,1,44916,2024-06-23,Indore,Debit Card
+402,Headphones,Electronics,21260,3,63780,2023-11-12,Kolkata,Debit Card
+403,Air Fryer,Home Appliances,290,2,580,2024-01-25,Bengaluru,UPI
+404,Notebook,Stationery,36306,3,108918,2023-05-27,Chennai,Credit Card
+405,Pen Pack,Stationery,40564,2,81128,2024-01-23,Delhi,Credit Card
+406,Headphones,Electronics,11384,3,34152,2025-03-26,Bengaluru,UPI
+407,T-Shirt,Fashion,14275,3,42825,2024-11-15,Chennai,Credit Card
+408,Shoes,Fashion,31820,5,159100,2023-08-12,Indore,Debit Card
+409,Laptop,Electronics,9352,4,37408,2024-07-14,Indore,Credit Card
+410,T-Shirt,Fashion,32093,4,128372,2024-12-29,Hyderabad,Cash
+411,Laptop,Electronics,25093,1,25093,2024-01-29,Indore,UPI
+412,Smartphone,Electronics,28551,4,114204,2025-12-22,Ahmedabad,Debit Card
+413,Headphones,Electronics,41945,2,83890,2025-03-24,Mumbai,UPI
+414,Mixer Grinder,Home Appliances,38565,4,154260,2025-01-17,Chennai,Cash
+415,Pen Pack,Stationery,11744,1,11744,2024-03-17,Ahmedabad,Cash
+416,Shoes,Fashion,1115,4,4460,2024-11-20,Pune,Cash
+417,Laptop,Electronics,33686,2,67372,2025-04-03,Chennai,Debit Card
+418,Notebook,Stationery,15062,1,15062,2023-05-24,Kolkata,UPI
+419,Notebook,Stationery,34435,4,137740,2024-09-07,Hyderabad,Credit Card
+420,Shoes,Fashion,486,4,1944,2025-12-19,Pune,Debit Card
+421,T-Shirt,Fashion,40101,1,40101,2024-06-01,Delhi,Net Banking
+422,Laptop,Electronics,2656,2,5312,2024-04-21,Hyderabad,Cash
+423,T-Shirt,Fashion,18093,3,54279,2024-01-25,Delhi,Cash
+424,Smartphone,Electronics,32150,5,160750,2025-05-09,Jaipur,Net Banking
+425,Laptop,Electronics,22208,2,44416,2023-05-16,Hyderabad,Net Banking
+426,Laptop,Electronics,3502,4,14008,2024-11-02,Mumbai,Debit Card
+427,Notebook,Stationery,12657,1,12657,2024-01-04,Bengaluru,UPI
+428,T-Shirt,Fashion,17129,4,68516,2024-05-26,Delhi,Debit Card
+429,Notebook,Stationery,22194,4,88776,2023-02-19,Chennai,Cash
+430,Air Fryer,Home Appliances,49322,5,246610,2024-11-24,Bengaluru,Credit Card
+431,Jeans,Fashion,20537,2,41074,2024-10-04,Chennai,UPI
+432,Shoes,Fashion,755,5,3775,2024-08-16,Delhi,Credit Card
+433,Shoes,Fashion,21875,5,109375,2023-02-19,Pune,UPI
+434,Air Fryer,Home Appliances,9673,5,48365,2025-07-24,Chennai,UPI
+435,Notebook,Stationery,48132,1,48132,2024-10-27,Jaipur,Cash
+436,Air Fryer,Home Appliances,17482,2,34964,2023-10-14,Ahmedabad,UPI
+437,Pen Pack,Stationery,43986,1,43986,2025-07-22,Bengaluru,Cash
+438,Headphones,Electronics,42514,1,42514,2023-12-27,Ahmedabad,Net Banking
+439,Smartphone,Electronics,28251,1,28251,2024-06-08,Delhi,Cash
+440,Headphones,Electronics,42715,2,85430,2024-02-22,Bengaluru,UPI
+441,Notebook,Stationery,44079,1,44079,2025-11-22,Mumbai,UPI
+442,Headphones,Electronics,46379,1,46379,2025-01-08,Indore,Cash
+443,Jeans,Fashion,12697,2,25394,2024-07-21,Chennai,Cash
+444,Mixer Grinder,Home Appliances,41337,3,124011,2025-08-16,Pune,Cash
+445,Air Fryer,Home Appliances,19063,1,19063,2025-09-23,Pune,Credit Card
+446,Smartphone,Electronics,38598,5,192990,2023-05-25,Delhi,Credit Card
+447,Pen Pack,Stationery,27671,5,138355,2024-04-29,Kolkata,Net Banking
+448,T-Shirt,Fashion,22925,1,22925,2025-09-23,Hyderabad,Net Banking
+449,T-Shirt,Fashion,12303,4,49212,2023-07-02,Delhi,Credit Card
+450,Jeans,Fashion,34417,3,103251,2024-11-16,Jaipur,UPI
+451,Headphones,Electronics,13762,1,13762,2023-02-26,Bengaluru,UPI
+452,Pen Pack,Stationery,26422,2,52844,2023-08-30,Mumbai,Debit Card
+453,Smartphone,Electronics,17756,4,71024,2025-08-21,Pune,Cash
+454,T-Shirt,Fashion,17140,5,85700,2024-08-05,Delhi,Debit Card
+455,Notebook,Stationery,17504,2,35008,2023-08-13,Mumbai,Credit Card
+456,Shoes,Fashion,22172,5,110860,2024-06-17,Bengaluru,UPI
+457,T-Shirt,Fashion,32563,1,32563,2025-05-29,Delhi,Net Banking
+458,Headphones,Electronics,45914,2,91828,2024-09-02,Pune,Debit Card
+459,Mixer Grinder,Home Appliances,46678,5,233390,2025-09-03,Ahmedabad,Credit Card
+460,Shoes,Fashion,28470,5,142350,2024-06-20,Chennai,Debit Card
+461,Headphones,Electronics,12158,2,24316,2025-12-11,Mumbai,Net Banking
+462,Laptop,Electronics,23109,4,92436,2025-09-03,Delhi,Credit Card
+463,Shoes,Fashion,30889,1,30889,2025-02-05,Delhi,UPI
+464,T-Shirt,Fashion,24925,1,24925,2023-01-09,Kolkata,UPI
+465,Jeans,Fashion,31457,2,62914,2023-02-08,Pune,Credit Card
+466,Headphones,Electronics,13592,1,13592,2024-07-23,Pune,Debit Card
+467,Pen Pack,Stationery,37880,4,151520,2024-12-27,Pune,Debit Card
+468,T-Shirt,Fashion,15909,4,63636,2025-12-30,Mumbai,UPI
+469,Notebook,Stationery,19117,4,76468,2023-05-05,Pune,Credit Card
+470,T-Shirt,Fashion,17503,2,35006,2024-06-24,Mumbai,Credit Card
+471,Laptop,Electronics,43045,5,215225,2024-06-16,Delhi,Cash
+472,T-Shirt,Fashion,15679,2,31358,2023-08-16,Delhi,UPI
+473,Air Fryer,Home Appliances,3842,4,15368,2025-03-28,Ahmedabad,Debit Card
+474,T-Shirt,Fashion,37821,5,189105,2025-09-19,Hyderabad,Debit Card
+475,T-Shirt,Fashion,5183,5,25915,2025-05-02,Jaipur,UPI
+476,Notebook,Stationery,48392,3,145176,2024-08-10,Chennai,Cash
+477,Jeans,Fashion,28870,3,86610,2023-11-27,Pune,UPI
+478,Jeans,Fashion,12420,1,12420,2023-05-07,Ahmedabad,Debit Card
+479,T-Shirt,Fashion,10526,3,31578,2025-10-12,Delhi,Credit Card
+480,Jeans,Fashion,25804,2,51608,2025-10-08,Mumbai,UPI
+481,Notebook,Stationery,43466,4,173864,2023-06-07,Jaipur,Cash
+482,Headphones,Electronics,15849,3,47547,2023-01-22,Delhi,Net Banking
+483,Headphones,Electronics,1193,1,1193,2025-04-14,Hyderabad,Net Banking
+484,Headphones,Electronics,42708,5,213540,2023-04-12,Hyderabad,Net Banking
+485,Headphones,Electronics,20142,1,20142,2023-10-10,Indore,Net Banking
+486,Mixer Grinder,Home Appliances,36477,5,182385,2024-12-20,Chennai,Net Banking
+487,Notebook,Stationery,2300,4,9200,2025-09-29,Jaipur,Cash
+488,Smartphone,Electronics,23514,4,94056,2025-04-07,Kolkata,Cash
+489,Laptop,Electronics,24312,4,97248,2023-10-18,Jaipur,Net Banking
+490,Notebook,Stationery,37961,3,113883,2025-10-25,Hyderabad,Net Banking
+491,Jeans,Fashion,795,2,1590,2025-08-30,Jaipur,UPI
+492,Shoes,Fashion,32338,1,32338,2024-10-09,Delhi,Cash
+493,T-Shirt,Fashion,29410,3,88230,2024-04-24,Ahmedabad,Credit Card
+494,Air Fryer,Home Appliances,40171,5,200855,2025-07-06,Kolkata,Credit Card
+495,Headphones,Electronics,4634,3,13902,2025-10-13,Chennai,Net Banking
+496,Shoes,Fashion,28839,1,28839,2025-01-08,Kolkata,UPI
+497,Pen Pack,Stationery,39970,5,199850,2023-03-28,Hyderabad,UPI
+498,Headphones,Electronics,1435,5,7175,2024-05-22,Ahmedabad,Debit Card
+499,Notebook,Stationery,4935,5,24675,2023-09-17,Hyderabad,Net Banking
+500,Pen Pack,Stationery,3531,1,3531,2025-08-08,Kolkata,Debit Card
+501,T-Shirt,Fashion,17769,2,35538,2023-04-16,Indore,Cash
+502,Smartphone,Electronics,34325,2,68650,2025-03-17,Chennai,Debit Card
+503,Pen Pack,Stationery,39301,4,157204,2025-10-31,Ahmedabad,Credit Card
+504,Pen Pack,Stationery,13388,2,26776,2023-09-07,Hyderabad,Cash
+505,Jeans,Fashion,31852,1,31852,2023-08-25,Bengaluru,Credit Card
+506,T-Shirt,Fashion,48837,3,146511,2024-10-18,Ahmedabad,Net Banking
+507,Mixer Grinder,Home Appliances,7218,2,14436,2024-04-21,Indore,Debit Card
+508,Shoes,Fashion,47656,4,190624,2024-06-06,Kolkata,Cash
+509,Air Fryer,Home Appliances,29441,5,147205,2025-03-25,Jaipur,Net Banking
+510,Notebook,Stationery,23818,3,71454,2024-08-16,Delhi,UPI
+511,Air Fryer,Home Appliances,38621,5,193105,2025-07-17,Indore,Credit Card
+512,Notebook,Stationery,30909,3,92727,2025-12-15,Kolkata,Credit Card
+513,Air Fryer,Home Appliances,12647,4,50588,2024-10-20,Delhi,Net Banking
+514,Mixer Grinder,Home Appliances,4169,3,12507,2023-09-04,Hyderabad,UPI
+515,Shoes,Fashion,20253,3,60759,2024-06-25,Hyderabad,Net Banking
+516,Jeans,Fashion,812,3,2436,2025-06-14,Bengaluru,Cash
+517,Notebook,Stationery,33159,1,33159,2024-10-10,Jaipur,UPI
+518,Jeans,Fashion,10710,4,42840,2024-05-01,Hyderabad,Debit Card
+519,Mixer Grinder,Home Appliances,33937,5,169685,2025-12-05,Chennai,Credit Card
+520,Laptop,Electronics,45185,2,90370,2024-10-06,Indore,UPI
+521,Notebook,Stationery,42278,3,126834,2023-01-09,Jaipur,UPI
+522,Mixer Grinder,Home Appliances,40932,1,40932,2023-05-02,Ahmedabad,Credit Card
+523,Headphones,Electronics,34211,5,171055,2024-07-01,Delhi,Credit Card
+524,Jeans,Fashion,20852,5,104260,2023-06-10,Bengaluru,UPI
+525,Smartphone,Electronics,35268,5,176340,2023-06-12,Pune,Cash
+526,Notebook,Stationery,45410,2,90820,2023-09-20,Pune,UPI
+527,Headphones,Electronics,2259,1,2259,2023-02-01,Indore,Net Banking
+528,Notebook,Stationery,20219,4,80876,2023-02-06,Pune,Credit Card
+529,Air Fryer,Home Appliances,36019,5,180095,2025-03-08,Kolkata,Credit Card
+530,Mixer Grinder,Home Appliances,28790,2,57580,2025-05-16,Pune,Debit Card
+531,Jeans,Fashion,46303,1,46303,2024-06-28,Bengaluru,Credit Card
+532,Headphones,Electronics,23516,4,94064,2025-03-13,Bengaluru,Debit Card
+533,Jeans,Fashion,3608,4,14432,2023-01-01,Indore,Cash
+534,Notebook,Stationery,48719,5,243595,2024-08-25,Jaipur,Credit Card
+535,Smartphone,Electronics,3624,5,18120,2023-08-26,Delhi,UPI
+536,Notebook,Stationery,28841,4,115364,2024-06-13,Hyderabad,UPI
+537,Smartphone,Electronics,760,1,760,2025-04-11,Ahmedabad,Credit Card
+538,Laptop,Electronics,39865,3,119595,2024-08-03,Indore,Net Banking
+539,Smartphone,Electronics,27412,2,54824,2025-04-16,Bengaluru,Net Banking
+540,Headphones,Electronics,46233,1,46233,2023-05-10,Hyderabad,Credit Card
+541,Smartphone,Electronics,37452,5,187260,2023-02-18,Jaipur,Credit Card
+542,Smartphone,Electronics,48642,4,194568,2023-04-12,Hyderabad,Net Banking
+543,Laptop,Electronics,47118,2,94236,2025-11-08,Indore,Net Banking
+544,Notebook,Stationery,40079,1,40079,2025-01-13,Bengaluru,Cash
+545,Headphones,Electronics,31277,2,62554,2023-12-27,Pune,Cash
+546,Laptop,Electronics,20623,5,103115,2024-01-19,Kolkata,UPI
+547,Laptop,Electronics,32746,5,163730,2024-03-06,Mumbai,UPI
+548,Headphones,Electronics,34452,2,68904,2025-03-23,Kolkata,Debit Card
+549,Air Fryer,Home Appliances,24906,1,24906,2024-07-14,Kolkata,Net Banking
+550,Smartphone,Electronics,2799,5,13995,2023-12-15,Indore,Net Banking
+551,Jeans,Fashion,17239,1,17239,2024-03-13,Ahmedabad,Net Banking
+552,Jeans,Fashion,45862,2,91724,2023-08-09,Kolkata,Credit Card
+553,Jeans,Fashion,6134,2,12268,2025-07-08,Bengaluru,UPI
+554,Jeans,Fashion,28293,3,84879,2023-01-28,Chennai,Cash
+555,Smartphone,Electronics,4367,4,17468,2023-12-28,Delhi,UPI
+556,Notebook,Stationery,7497,3,22491,2025-06-14,Jaipur,Cash
+557,Notebook,Stationery,8301,4,33204,2025-10-03,Chennai,Net Banking
+558,Shoes,Fashion,24969,5,124845,2023-07-24,Indore,UPI
+559,Pen Pack,Stationery,44667,1,44667,2024-10-05,Delhi,Credit Card
+560,Mixer Grinder,Home Appliances,42627,3,127881,2023-05-26,Pune,Credit Card
+561,Pen Pack,Stationery,36707,4,146828,2024-08-16,Kolkata,Cash
+562,Shoes,Fashion,3520,4,14080,2023-04-13,Jaipur,Debit Card
+563,Headphones,Electronics,9232,5,46160,2025-10-22,Kolkata,Cash
+564,Pen Pack,Stationery,49696,3,149088,2025-09-27,Ahmedabad,Net Banking
+565,Jeans,Fashion,14007,2,28014,2024-04-28,Ahmedabad,Net Banking
+566,Headphones,Electronics,24145,5,120725,2023-08-26,Mumbai,Cash
+567,Pen Pack,Stationery,28733,1,28733,2023-04-06,Chennai,Cash
+568,Air Fryer,Home Appliances,42465,2,84930,2025-11-11,Jaipur,Debit Card
+569,Smartphone,Electronics,32713,5,163565,2025-08-17,Mumbai,UPI
+570,Air Fryer,Home Appliances,35231,2,70462,2023-07-15,Mumbai,Cash
+571,Mixer Grinder,Home Appliances,8061,1,8061,2025-06-05,Ahmedabad,Debit Card
+572,Headphones,Electronics,13968,5,69840,2024-03-07,Pune,UPI
+573,Notebook,Stationery,29671,1,29671,2025-12-21,Hyderabad,Cash
+574,Jeans,Fashion,48565,4,194260,2023-05-05,Hyderabad,Cash
+575,Laptop,Electronics,10815,4,43260,2024-08-31,Pune,Cash
+576,Laptop,Electronics,2562,1,2562,2023-05-24,Hyderabad,Cash
+577,Notebook,Stationery,18141,4,72564,2023-12-02,Ahmedabad,Cash
+578,Smartphone,Electronics,38094,5,190470,2024-12-27,Jaipur,UPI
+579,Mixer Grinder,Home Appliances,46361,4,185444,2024-03-02,Hyderabad,Debit Card
+580,Shoes,Fashion,21473,4,85892,2025-01-10,Pune,Net Banking
+581,Smartphone,Electronics,16214,4,64856,2023-06-08,Pune,Debit Card
+582,T-Shirt,Fashion,44082,5,220410,2023-03-10,Indore,Debit Card
+583,Shoes,Fashion,21012,2,42024,2025-05-29,Ahmedabad,Debit Card
+584,Air Fryer,Home Appliances,41388,1,41388,2025-07-01,Indore,Credit Card
+585,Shoes,Fashion,46982,3,140946,2024-09-25,Jaipur,Net Banking
+586,Laptop,Electronics,45197,5,225985,2025-08-16,Delhi,Debit Card
+587,Smartphone,Electronics,231,3,693,2025-02-04,Hyderabad,UPI
+588,Smartphone,Electronics,43570,1,43570,2025-05-30,Delhi,Credit Card
+589,T-Shirt,Fashion,25044,4,100176,2025-01-22,Pune,Cash
+590,Air Fryer,Home Appliances,43129,4,172516,2024-05-01,Hyderabad,Cash
+591,Mixer Grinder,Home Appliances,5678,5,28390,2024-05-22,Chennai,Debit Card
+592,Notebook,Stationery,27459,4,109836,2025-06-26,Chennai,Net Banking
+593,Smartphone,Electronics,30543,3,91629,2023-01-20,Pune,UPI
+594,T-Shirt,Fashion,45479,3,136437,2025-11-24,Jaipur,Credit Card
+595,Laptop,Electronics,32327,3,96981,2023-07-16,Chennai,Net Banking
+596,Laptop,Electronics,11752,3,35256,2025-05-07,Ahmedabad,Debit Card
+597,Jeans,Fashion,6071,2,12142,2023-10-14,Pune,UPI
+598,Smartphone,Electronics,31780,1,31780,2023-03-22,Indore,Net Banking
+599,Smartphone,Electronics,12833,1,12833,2023-09-08,Delhi,Net Banking
+600,Jeans,Fashion,18382,3,55146,2024-11-12,Jaipur,UPI
+601,Smartphone,Electronics,38677,1,38677,2024-02-08,Mumbai,Cash
+602,Laptop,Electronics,20036,3,60108,2024-02-23,Kolkata,Credit Card
+603,T-Shirt,Fashion,22917,4,91668,2024-07-20,Ahmedabad,Credit Card
+604,Laptop,Electronics,47359,4,189436,2024-06-29,Mumbai,Cash
+605,Smartphone,Electronics,24580,3,73740,2025-03-26,Kolkata,UPI
+606,Pen Pack,Stationery,14031,4,56124,2024-07-08,Indore,Debit Card
+607,Headphones,Electronics,23971,1,23971,2023-10-08,Jaipur,Cash
+608,Smartphone,Electronics,40222,3,120666,2023-05-14,Chennai,Debit Card
+609,Laptop,Electronics,49802,4,199208,2024-12-09,Chennai,Net Banking
+610,Laptop,Electronics,16877,5,84385,2025-03-13,Mumbai,Credit Card
+611,Pen Pack,Stationery,42283,4,169132,2025-11-01,Indore,Net Banking
+612,Air Fryer,Home Appliances,48638,1,48638,2024-04-17,Ahmedabad,Debit Card
+613,Headphones,Electronics,13693,5,68465,2024-08-17,Kolkata,Credit Card
+614,Mixer Grinder,Home Appliances,6144,4,24576,2025-10-10,Bengaluru,Cash
+615,Air Fryer,Home Appliances,18602,5,93010,2023-10-13,Indore,Credit Card
+616,Laptop,Electronics,1238,1,1238,2024-12-06,Delhi,Cash
+617,Smartphone,Electronics,35038,1,35038,2023-10-02,Bengaluru,Debit Card
+618,Laptop,Electronics,19425,3,58275,2025-01-01,Hyderabad,UPI
+619,Notebook,Stationery,22205,3,66615,2025-04-08,Pune,Net Banking
+620,Headphones,Electronics,32058,3,96174,2023-07-01,Delhi,Credit Card
+621,T-Shirt,Fashion,48587,3,145761,2024-09-20,Jaipur,Debit Card
+622,T-Shirt,Fashion,14542,4,58168,2025-03-09,Pune,Credit Card
+623,Headphones,Electronics,47240,1,47240,2024-03-26,Jaipur,UPI
+624,Shoes,Fashion,41089,2,82178,2023-12-20,Indore,UPI
+625,Jeans,Fashion,14340,3,43020,2025-02-24,Chennai,Net Banking
+626,Pen Pack,Stationery,33093,4,132372,2023-08-01,Mumbai,Net Banking
+627,Air Fryer,Home Appliances,15900,5,79500,2025-08-03,Kolkata,Debit Card
+628,Air Fryer,Home Appliances,9562,1,9562,2025-02-18,Chennai,Credit Card
+629,Air Fryer,Home Appliances,40282,4,161128,2023-08-23,Delhi,UPI
+630,T-Shirt,Fashion,22714,1,22714,2025-06-13,Mumbai,Net Banking
+631,Pen Pack,Stationery,41466,3,124398,2024-08-05,Kolkata,Credit Card
+632,Notebook,Stationery,12294,2,24588,2024-02-14,Pune,Net Banking
+633,Headphones,Electronics,39834,3,119502,2023-05-24,Bengaluru,Debit Card
+634,Air Fryer,Home Appliances,5920,1,5920,2025-04-16,Ahmedabad,Cash
+635,Jeans,Fashion,29442,3,88326,2025-12-07,Mumbai,Debit Card
+636,Mixer Grinder,Home Appliances,206,3,618,2024-05-09,Hyderabad,Cash
+637,Laptop,Electronics,34878,3,104634,2023-08-25,Hyderabad,Credit Card
+638,Laptop,Electronics,2143,2,4286,2024-03-27,Jaipur,UPI
+639,Jeans,Fashion,36095,1,36095,2023-08-28,Chennai,Debit Card
+640,Laptop,Electronics,18720,4,74880,2024-05-20,Hyderabad,Net Banking
+641,Mixer Grinder,Home Appliances,38420,5,192100,2023-12-07,Kolkata,UPI
+642,Headphones,Electronics,30852,5,154260,2025-11-25,Ahmedabad,Cash
+643,T-Shirt,Fashion,41518,5,207590,2024-08-05,Pune,Credit Card
+644,Air Fryer,Home Appliances,1798,1,1798,2024-03-13,Pune,Cash
+645,Mixer Grinder,Home Appliances,8384,1,8384,2024-03-31,Pune,Credit Card
+646,T-Shirt,Fashion,10728,4,42912,2024-07-16,Bengaluru,Net Banking
+647,Pen Pack,Stationery,4657,3,13971,2025-04-14,Kolkata,UPI
+648,T-Shirt,Fashion,37723,5,188615,2023-01-06,Pune,UPI
+649,Air Fryer,Home Appliances,37314,3,111942,2023-01-17,Delhi,Debit Card
+650,Laptop,Electronics,330,4,1320,2024-06-05,Chennai,Debit Card
+651,T-Shirt,Fashion,46408,2,92816,2025-06-11,Pune,Debit Card
+652,Laptop,Electronics,12525,3,37575,2025-08-03,Chennai,Debit Card
+653,Mixer Grinder,Home Appliances,38403,2,76806,2023-01-04,Kolkata,UPI
+654,Notebook,Stationery,20091,4,80364,2023-03-21,Hyderabad,Debit Card
+655,Jeans,Fashion,1340,3,4020,2023-09-16,Pune,Cash
+656,Mixer Grinder,Home Appliances,1091,4,4364,2024-08-02,Mumbai,UPI
+657,T-Shirt,Fashion,8859,3,26577,2025-04-05,Ahmedabad,Cash
+658,T-Shirt,Fashion,26180,4,104720,2025-07-11,Bengaluru,Debit Card
+659,Headphones,Electronics,4477,1,4477,2025-10-02,Indore,Credit Card
+660,Smartphone,Electronics,44241,3,132723,2025-02-02,Kolkata,UPI
+661,Mixer Grinder,Home Appliances,43531,2,87062,2025-04-02,Delhi,Net Banking
+662,Mixer Grinder,Home Appliances,37368,5,186840,2024-05-21,Mumbai,Credit Card
+663,Laptop,Electronics,37087,2,74174,2023-01-17,Bengaluru,Cash
+664,Headphones,Electronics,32941,4,131764,2025-08-21,Delhi,UPI
+665,Pen Pack,Stationery,48022,4,192088,2024-02-22,Delhi,Credit Card
+666,Pen Pack,Stationery,35360,5,176800,2025-09-24,Hyderabad,Debit Card
+667,Air Fryer,Home Appliances,18689,2,37378,2024-10-24,Delhi,Credit Card
+668,Shoes,Fashion,13539,2,27078,2025-03-15,Hyderabad,Cash
+669,Headphones,Electronics,13597,1,13597,2024-10-15,Chennai,Cash
+670,Mixer Grinder,Home Appliances,35593,4,142372,2025-02-24,Pune,Net Banking
+671,Laptop,Electronics,44518,4,178072,2023-07-17,Jaipur,UPI
+672,Mixer Grinder,Home Appliances,30726,4,122904,2023-10-09,Ahmedabad,Debit Card
+673,Smartphone,Electronics,45692,5,228460,2024-02-28,Mumbai,Debit Card
+674,Jeans,Fashion,32569,4,130276,2025-11-25,Indore,UPI
+675,Notebook,Stationery,3173,1,3173,2025-09-29,Hyderabad,Net Banking
+676,Jeans,Fashion,48431,4,193724,2025-04-29,Delhi,Credit Card
+677,Mixer Grinder,Home Appliances,41676,5,208380,2024-12-03,Delhi,UPI
+678,Shoes,Fashion,9184,2,18368,2024-02-07,Indore,Debit Card
+679,Pen Pack,Stationery,7362,2,14724,2023-08-26,Ahmedabad,Cash
+680,T-Shirt,Fashion,44727,3,134181,2023-03-20,Jaipur,Credit Card
+681,Mixer Grinder,Home Appliances,18195,2,36390,2023-06-14,Kolkata,Debit Card
+682,Smartphone,Electronics,42204,3,126612,2025-02-23,Kolkata,Net Banking
+683,Mixer Grinder,Home Appliances,7496,3,22488,2025-09-07,Ahmedabad,Debit Card
+684,Jeans,Fashion,36451,1,36451,2025-11-25,Bengaluru,Cash
+685,Laptop,Electronics,20534,5,102670,2025-01-07,Mumbai,Net Banking
+686,Smartphone,Electronics,11626,2,23252,2024-04-22,Pune,Net Banking
+687,Headphones,Electronics,49574,5,247870,2023-04-18,Jaipur,Credit Card
+688,Headphones,Electronics,35230,4,140920,2025-01-18,Mumbai,Cash
+689,Jeans,Fashion,23866,3,71598,2024-07-20,Ahmedabad,Cash
+690,Smartphone,Electronics,23129,4,92516,2025-06-02,Indore,Net Banking
+691,Headphones,Electronics,47273,2,94546,2023-02-16,Delhi,Credit Card
+692,Mixer Grinder,Home Appliances,28380,4,113520,2023-02-21,Kolkata,UPI
+693,T-Shirt,Fashion,41033,5,205165,2023-03-22,Chennai,UPI
+694,T-Shirt,Fashion,1383,2,2766,2024-10-26,Ahmedabad,Cash
+695,Jeans,Fashion,15209,5,76045,2025-09-06,Pune,Net Banking
+696,Smartphone,Electronics,4722,2,9444,2025-03-18,Bengaluru,Credit Card
+697,Jeans,Fashion,36328,2,72656,2024-11-16,Indore,Debit Card
+698,Shoes,Fashion,49120,1,49120,2024-04-30,Indore,Net Banking
+699,Pen Pack,Stationery,45041,4,180164,2024-12-15,Jaipur,Net Banking
+700,Pen Pack,Stationery,43667,2,87334,2025-05-24,Pune,Credit Card
+701,Air Fryer,Home Appliances,44869,5,224345,2025-05-20,Indore,Cash
+702,Headphones,Electronics,13717,5,68585,2023-04-08,Pune,Cash
+703,Mixer Grinder,Home Appliances,46754,5,233770,2023-06-02,Pune,Credit Card
+704,Air Fryer,Home Appliances,17637,1,17637,2025-11-06,Delhi,Net Banking
+705,Notebook,Stationery,9612,5,48060,2024-05-17,Pune,UPI
+706,Air Fryer,Home Appliances,18347,5,91735,2024-09-10,Jaipur,Credit Card
+707,Smartphone,Electronics,48946,5,244730,2025-09-03,Kolkata,Debit Card
+708,Headphones,Electronics,6767,5,33835,2025-06-03,Delhi,Net Banking
+709,Headphones,Electronics,35866,5,179330,2023-09-04,Jaipur,Credit Card
+710,T-Shirt,Fashion,6026,2,12052,2023-01-27,Pune,Debit Card
+711,Laptop,Electronics,4207,4,16828,2023-12-15,Mumbai,UPI
+712,Jeans,Fashion,32350,4,129400,2024-07-23,Indore,Credit Card
+713,Air Fryer,Home Appliances,9019,1,9019,2025-06-08,Hyderabad,Net Banking
+714,T-Shirt,Fashion,35778,5,178890,2025-08-10,Indore,UPI
+715,Mixer Grinder,Home Appliances,17353,3,52059,2025-12-07,Ahmedabad,Cash
+716,Jeans,Fashion,33610,5,168050,2023-06-22,Mumbai,UPI
+717,Notebook,Stationery,44507,3,133521,2024-07-20,Bengaluru,Cash
+718,Smartphone,Electronics,33524,5,167620,2024-05-15,Hyderabad,Debit Card
+719,Shoes,Fashion,39148,5,195740,2025-04-03,Delhi,Debit Card
+720,Pen Pack,Stationery,41585,2,83170,2024-09-21,Delhi,Debit Card
+721,Air Fryer,Home Appliances,12351,3,37053,2024-12-09,Kolkata,Net Banking
+722,Shoes,Fashion,27642,5,138210,2025-03-18,Delhi,Credit Card
+723,Pen Pack,Stationery,32821,5,164105,2024-05-22,Jaipur,Debit Card
+724,T-Shirt,Fashion,10613,1,10613,2023-01-22,Pune,Debit Card
+725,Smartphone,Electronics,28734,2,57468,2025-06-09,Jaipur,Net Banking
+726,Mixer Grinder,Home Appliances,24381,1,24381,2023-12-03,Kolkata,Credit Card
+727,Air Fryer,Home Appliances,30578,2,61156,2025-04-19,Kolkata,UPI
+728,Laptop,Electronics,35458,2,70916,2025-10-01,Jaipur,Debit Card
+729,Notebook,Stationery,46364,4,185456,2025-09-23,Delhi,Credit Card
+730,T-Shirt,Fashion,16840,2,33680,2024-09-01,Jaipur,UPI
+731,Laptop,Electronics,29677,2,59354,2025-02-03,Chennai,Cash
+732,T-Shirt,Fashion,9641,1,9641,2024-09-02,Mumbai,Cash
+733,Mixer Grinder,Home Appliances,26041,2,52082,2025-08-13,Delhi,UPI
+734,Mixer Grinder,Home Appliances,11450,4,45800,2024-05-14,Ahmedabad,Net Banking
+735,T-Shirt,Fashion,40310,3,120930,2023-04-23,Mumbai,Net Banking
+736,T-Shirt,Fashion,17571,4,70284,2025-12-15,Pune,Net Banking
+737,T-Shirt,Fashion,14341,1,14341,2024-05-20,Chennai,UPI
+738,Air Fryer,Home Appliances,18526,4,74104,2025-07-18,Delhi,Credit Card
+739,Smartphone,Electronics,8118,3,24354,2025-10-08,Jaipur,UPI
+740,Laptop,Electronics,12152,2,24304,2024-03-29,Chennai,UPI
+741,Mixer Grinder,Home Appliances,9235,2,18470,2025-07-04,Chennai,UPI
+742,Notebook,Stationery,45326,5,226630,2025-02-15,Bengaluru,UPI
+743,Laptop,Electronics,34683,1,34683,2024-06-19,Mumbai,Debit Card
+744,Headphones,Electronics,26647,5,133235,2025-10-07,Indore,Debit Card
+745,Mixer Grinder,Home Appliances,37684,2,75368,2023-09-28,Ahmedabad,Credit Card
+746,Notebook,Stationery,30771,3,92313,2025-10-23,Indore,UPI
+747,Pen Pack,Stationery,1174,3,3522,2023-03-25,Jaipur,Credit Card
+748,T-Shirt,Fashion,23602,1,23602,2023-11-06,Bengaluru,Net Banking
+749,Air Fryer,Home Appliances,33990,3,101970,2024-11-18,Delhi,Credit Card
+750,Mixer Grinder,Home Appliances,2947,3,8841,2024-01-26,Chennai,Cash
+751,Notebook,Stationery,38256,3,114768,2025-07-17,Bengaluru,UPI
+752,Notebook,Stationery,42532,2,85064,2025-02-05,Ahmedabad,UPI
+753,Jeans,Fashion,47745,2,95490,2025-01-01,Ahmedabad,Net Banking
+754,Pen Pack,Stationery,13518,1,13518,2024-03-29,Chennai,UPI
+755,Mixer Grinder,Home Appliances,3520,2,7040,2023-02-17,Hyderabad,UPI
+756,Notebook,Stationery,30526,2,61052,2023-01-06,Indore,Credit Card
+757,T-Shirt,Fashion,1995,2,3990,2025-07-25,Hyderabad,Net Banking
+758,Notebook,Stationery,36420,4,145680,2025-07-31,Pune,Net Banking
+759,Air Fryer,Home Appliances,40809,5,204045,2025-01-18,Mumbai,Credit Card
+760,Smartphone,Electronics,4907,5,24535,2024-10-22,Pune,Net Banking
+761,T-Shirt,Fashion,29489,1,29489,2025-02-21,Jaipur,Debit Card
+762,Jeans,Fashion,24963,1,24963,2023-01-14,Mumbai,Debit Card
+763,Smartphone,Electronics,20891,1,20891,2023-09-16,Indore,Credit Card
+764,Shoes,Fashion,29990,4,119960,2024-04-28,Kolkata,Cash
+765,Laptop,Electronics,42275,1,42275,2024-04-28,Pune,Credit Card
+766,Pen Pack,Stationery,49378,5,246890,2025-03-23,Bengaluru,Cash
+767,Jeans,Fashion,7514,4,30056,2024-01-11,Jaipur,Debit Card
+768,T-Shirt,Fashion,45398,4,181592,2025-06-28,Kolkata,Cash
+769,Mixer Grinder,Home Appliances,29538,1,29538,2023-09-18,Hyderabad,Debit Card
+770,Shoes,Fashion,26143,3,78429,2023-12-02,Jaipur,Debit Card
+771,Air Fryer,Home Appliances,14637,4,58548,2024-05-27,Bengaluru,UPI
+772,Air Fryer,Home Appliances,39893,2,79786,2025-10-21,Chennai,Cash
+773,Mixer Grinder,Home Appliances,29197,2,58394,2023-03-21,Delhi,Net Banking
+774,Mixer Grinder,Home Appliances,8031,1,8031,2024-09-27,Bengaluru,Credit Card
+775,Air Fryer,Home Appliances,8175,2,16350,2023-10-30,Kolkata,Debit Card
+776,Air Fryer,Home Appliances,11905,5,59525,2023-01-21,Ahmedabad,Credit Card
+777,Headphones,Electronics,2275,5,11375,2023-05-26,Bengaluru,Debit Card
+778,Smartphone,Electronics,27930,5,139650,2025-03-26,Chennai,UPI
+779,Air Fryer,Home Appliances,13420,3,40260,2024-07-10,Mumbai,Cash
+780,Laptop,Electronics,46850,2,93700,2024-07-29,Chennai,Net Banking
+781,Jeans,Fashion,3184,3,9552,2025-10-12,Hyderabad,Debit Card
+782,Jeans,Fashion,31670,2,63340,2025-05-30,Pune,UPI
+783,Laptop,Electronics,28667,4,114668,2023-02-26,Hyderabad,Net Banking
+784,Shoes,Fashion,46215,4,184860,2023-04-20,Kolkata,Net Banking
+785,Smartphone,Electronics,43254,2,86508,2025-12-07,Mumbai,Credit Card
+786,T-Shirt,Fashion,43720,1,43720,2025-06-14,Kolkata,UPI
+787,Air Fryer,Home Appliances,7906,5,39530,2023-02-18,Jaipur,Net Banking
+788,Headphones,Electronics,11100,1,11100,2025-06-18,Mumbai,UPI
+789,Shoes,Fashion,23600,5,118000,2023-06-08,Pune,Net Banking
+790,Mixer Grinder,Home Appliances,20774,4,83096,2025-10-16,Delhi,Debit Card
+791,Pen Pack,Stationery,17500,2,35000,2023-04-16,Ahmedabad,Debit Card
+792,Mixer Grinder,Home Appliances,20446,3,61338,2025-06-08,Mumbai,Debit Card
+793,Mixer Grinder,Home Appliances,20596,4,82384,2023-04-18,Pune,Cash
+794,Smartphone,Electronics,37809,1,37809,2024-07-26,Mumbai,Cash
+795,Shoes,Fashion,12498,3,37494,2023-12-06,Indore,Cash
+796,Shoes,Fashion,10684,1,10684,2024-11-29,Chennai,UPI
+797,T-Shirt,Fashion,29219,4,116876,2023-01-25,Chennai,UPI
+798,Headphones,Electronics,25726,3,77178,2024-08-26,Indore,UPI
+799,Mixer Grinder,Home Appliances,3832,3,11496,2024-05-05,Pune,Net Banking
+800,Air Fryer,Home Appliances,332,1,332,2025-08-23,Kolkata,Credit Card
+801,Laptop,Electronics,28412,5,142060,2025-11-08,Kolkata,Net Banking
+802,Jeans,Fashion,38146,1,38146,2023-11-22,Jaipur,Net Banking
+803,Pen Pack,Stationery,3530,4,14120,2023-12-13,Kolkata,Credit Card
+804,Pen Pack,Stationery,20878,1,20878,2025-10-24,Chennai,Credit Card
+805,Jeans,Fashion,40824,2,81648,2025-10-29,Pune,Cash
+806,Pen Pack,Stationery,44194,3,132582,2025-06-28,Mumbai,Cash
+807,Shoes,Fashion,23173,1,23173,2024-05-16,Ahmedabad,Debit Card
+808,Mixer Grinder,Home Appliances,17373,3,52119,2025-06-15,Ahmedabad,Net Banking
+809,Laptop,Electronics,19889,2,39778,2025-02-11,Jaipur,Cash
+810,Notebook,Stationery,28707,1,28707,2025-02-07,Chennai,Debit Card
+811,Jeans,Fashion,16906,5,84530,2023-07-28,Bengaluru,Credit Card
+812,Jeans,Fashion,49910,5,249550,2025-10-18,Delhi,UPI
+813,Mixer Grinder,Home Appliances,21078,1,21078,2023-05-04,Delhi,Cash
+814,Air Fryer,Home Appliances,40755,4,163020,2024-01-28,Delhi,Cash
+815,Headphones,Electronics,48107,5,240535,2025-01-30,Chennai,Cash
+816,Air Fryer,Home Appliances,43504,4,174016,2024-03-01,Indore,Net Banking
+817,T-Shirt,Fashion,39340,5,196700,2023-09-20,Pune,Cash
+818,Smartphone,Electronics,39220,5,196100,2024-10-06,Delhi,Cash
+819,Notebook,Stationery,20214,1,20214,2024-02-28,Mumbai,Debit Card
+820,Jeans,Fashion,27487,1,27487,2023-01-18,Chennai,UPI
+821,Headphones,Electronics,3164,2,6328,2023-12-13,Jaipur,Net Banking
+822,Jeans,Fashion,251,1,251,2025-02-08,Jaipur,UPI
+823,Jeans,Fashion,39396,5,196980,2024-09-02,Pune,Credit Card
+824,Jeans,Fashion,36103,5,180515,2023-12-26,Bengaluru,Net Banking
+825,Air Fryer,Home Appliances,46879,2,93758,2023-10-12,Delhi,Net Banking
+826,T-Shirt,Fashion,16314,4,65256,2025-10-05,Jaipur,Credit Card
+827,Headphones,Electronics,39856,3,119568,2023-09-08,Pune,Debit Card
+828,Pen Pack,Stationery,272,4,1088,2024-08-13,Hyderabad,Net Banking
+829,Headphones,Electronics,15124,5,75620,2025-05-07,Indore,Net Banking
+830,Laptop,Electronics,26927,4,107708,2023-06-01,Bengaluru,Net Banking
+831,Shoes,Fashion,8758,4,35032,2025-06-26,Mumbai,Debit Card
+832,Shoes,Fashion,20243,3,60729,2023-03-02,Ahmedabad,Debit Card
+833,Notebook,Stationery,41950,1,41950,2023-11-18,Hyderabad,Cash
+834,Smartphone,Electronics,29086,3,87258,2024-01-03,Delhi,Net Banking
+835,Jeans,Fashion,10194,5,50970,2024-03-17,Indore,UPI
+836,Notebook,Stationery,47672,2,95344,2025-08-01,Hyderabad,Net Banking
+837,Jeans,Fashion,38626,4,154504,2024-03-23,Mumbai,Net Banking
+838,Headphones,Electronics,37675,5,188375,2024-07-14,Pune,Cash
+839,Air Fryer,Home Appliances,6058,1,6058,2025-05-17,Indore,Cash
+840,Smartphone,Electronics,26681,1,26681,2024-12-13,Kolkata,UPI
+841,Jeans,Fashion,35224,3,105672,2023-01-14,Indore,Debit Card
+842,Headphones,Electronics,48824,3,146472,2025-11-14,Kolkata,Net Banking
+843,Smartphone,Electronics,20929,3,62787,2023-06-23,Pune,Net Banking
+844,Pen Pack,Stationery,32505,3,97515,2024-02-13,Ahmedabad,Net Banking
+845,Laptop,Electronics,37084,4,148336,2023-09-21,Jaipur,UPI
+846,Shoes,Fashion,35403,5,177015,2025-07-24,Delhi,UPI
+847,Notebook,Stationery,2935,3,8805,2023-09-22,Bengaluru,Net Banking
+848,Smartphone,Electronics,31251,2,62502,2023-04-02,Ahmedabad,Cash
+849,Jeans,Fashion,34290,4,137160,2023-10-22,Pune,UPI
+850,Air Fryer,Home Appliances,3330,5,16650,2024-10-04,Delhi,UPI
+851,Notebook,Stationery,41131,1,41131,2024-03-31,Delhi,UPI
+852,Shoes,Fashion,11183,2,22366,2025-02-14,Kolkata,UPI
+853,Pen Pack,Stationery,19732,5,98660,2023-09-19,Bengaluru,Debit Card
+854,Air Fryer,Home Appliances,27597,1,27597,2025-11-17,Indore,Debit Card
+855,Air Fryer,Home Appliances,23667,4,94668,2024-01-03,Jaipur,Credit Card
+856,Jeans,Fashion,16029,5,80145,2024-07-26,Delhi,UPI
+857,Notebook,Stationery,41031,4,164124,2023-02-28,Delhi,Cash
+858,Jeans,Fashion,37190,5,185950,2023-09-13,Chennai,Credit Card
+859,T-Shirt,Fashion,9827,1,9827,2023-04-30,Indore,Credit Card
+860,Jeans,Fashion,13502,3,40506,2023-08-07,Delhi,Cash
+861,Mixer Grinder,Home Appliances,30907,5,154535,2025-11-21,Pune,UPI
+862,Smartphone,Electronics,46348,5,231740,2025-11-21,Kolkata,UPI
+863,Headphones,Electronics,22453,2,44906,2023-09-14,Bengaluru,Credit Card
+864,Pen Pack,Stationery,27888,4,111552,2023-06-07,Chennai,Net Banking
+865,Laptop,Electronics,1304,2,2608,2024-08-17,Indore,Cash
+866,Air Fryer,Home Appliances,27850,5,139250,2023-12-07,Delhi,Cash
+867,Smartphone,Electronics,44662,4,178648,2025-11-14,Jaipur,Credit Card
+868,Headphones,Electronics,47691,5,238455,2023-01-23,Ahmedabad,Net Banking
+869,Pen Pack,Stationery,15005,1,15005,2023-05-09,Chennai,Debit Card
+870,Air Fryer,Home Appliances,17453,4,69812,2023-12-08,Indore,Net Banking
+871,Shoes,Fashion,39285,2,78570,2023-03-11,Pune,Cash
+872,Notebook,Stationery,9712,5,48560,2024-12-17,Hyderabad,Debit Card
+873,Shoes,Fashion,26713,5,133565,2024-09-06,Indore,UPI
+874,Air Fryer,Home Appliances,17684,4,70736,2024-08-15,Indore,Credit Card
+875,Notebook,Stationery,8346,1,8346,2024-07-07,Pune,Debit Card
+876,Mixer Grinder,Home Appliances,38687,5,193435,2024-03-18,Jaipur,Debit Card
+877,T-Shirt,Fashion,15880,5,79400,2023-04-28,Pune,Net Banking
+878,Jeans,Fashion,35703,5,178515,2025-03-29,Pune,Credit Card
+879,T-Shirt,Fashion,2786,5,13930,2025-10-11,Jaipur,Debit Card
+880,Headphones,Electronics,7406,5,37030,2025-06-26,Kolkata,Debit Card
+881,Mixer Grinder,Home Appliances,21948,5,109740,2025-09-08,Chennai,Debit Card
+882,Notebook,Stationery,43365,2,86730,2023-06-15,Ahmedabad,Credit Card
+883,Pen Pack,Stationery,33629,3,100887,2024-08-18,Jaipur,UPI
+884,Shoes,Fashion,33154,5,165770,2023-06-07,Delhi,Debit Card
+885,Pen Pack,Stationery,39084,5,195420,2024-03-29,Chennai,Net Banking
+886,Headphones,Electronics,31784,4,127136,2023-04-01,Pune,Net Banking
+887,Air Fryer,Home Appliances,32599,5,162995,2025-08-13,Chennai,Net Banking
+888,Air Fryer,Home Appliances,19981,2,39962,2024-11-03,Mumbai,Net Banking
+889,Smartphone,Electronics,36348,5,181740,2025-08-22,Jaipur,Net Banking
+890,Pen Pack,Stationery,35296,2,70592,2025-02-01,Mumbai,UPI
+891,Jeans,Fashion,38078,2,76156,2025-08-17,Mumbai,Cash
+892,Jeans,Fashion,49882,4,199528,2023-04-05,Bengaluru,UPI
+893,Headphones,Electronics,4415,5,22075,2023-11-19,Kolkata,Debit Card
+894,Mixer Grinder,Home Appliances,2990,2,5980,2025-01-27,Chennai,Credit Card
+895,Jeans,Fashion,10833,1,10833,2024-05-25,Jaipur,Cash
+896,Jeans,Fashion,27829,4,111316,2024-12-11,Indore,Debit Card
+897,Smartphone,Electronics,6468,5,32340,2025-12-01,Bengaluru,Cash
+898,Notebook,Stationery,1490,4,5960,2023-07-03,Indore,Debit Card
+899,Laptop,Electronics,4911,5,24555,2024-06-15,Indore,UPI
+900,Headphones,Electronics,15327,2,30654,2024-09-18,Mumbai,UPI
+901,Headphones,Electronics,42074,3,126222,2024-12-17,Bengaluru,Credit Card
+902,Laptop,Electronics,15182,1,15182,2025-05-18,Hyderabad,Net Banking
+903,T-Shirt,Fashion,35595,2,71190,2025-11-27,Hyderabad,Debit Card
+904,Pen Pack,Stationery,23338,4,93352,2025-10-30,Pune,Debit Card
+905,Mixer Grinder,Home Appliances,43688,2,87376,2023-02-16,Hyderabad,Cash
+906,Air Fryer,Home Appliances,330,1,330,2025-11-29,Indore,UPI
+907,Headphones,Electronics,10938,2,21876,2024-06-19,Bengaluru,Net Banking
+908,Pen Pack,Stationery,42598,3,127794,2023-04-11,Mumbai,UPI
+909,Mixer Grinder,Home Appliances,46155,1,46155,2024-08-08,Bengaluru,Credit Card
+910,Headphones,Electronics,5256,1,5256,2023-09-01,Mumbai,UPI
+911,Notebook,Stationery,40195,5,200975,2023-02-01,Ahmedabad,Net Banking
+912,Smartphone,Electronics,35643,1,35643,2025-12-21,Pune,UPI
+913,T-Shirt,Fashion,45015,1,45015,2024-07-31,Indore,Debit Card
+914,Headphones,Electronics,18020,1,18020,2025-02-01,Hyderabad,UPI
+915,Shoes,Fashion,17101,4,68404,2025-05-01,Indore,Net Banking
+916,T-Shirt,Fashion,18723,5,93615,2023-08-14,Kolkata,UPI
+917,Smartphone,Electronics,18489,5,92445,2023-08-09,Mumbai,Credit Card
+918,T-Shirt,Fashion,25553,5,127765,2023-12-16,Jaipur,Credit Card
+919,Smartphone,Electronics,16608,1,16608,2025-05-01,Indore,UPI
+920,Laptop,Electronics,24891,2,49782,2023-08-15,Indore,Net Banking
+921,Jeans,Fashion,17311,2,34622,2024-03-17,Chennai,UPI
+922,Shoes,Fashion,32617,4,130468,2023-11-08,Hyderabad,Cash
+923,Shoes,Fashion,43412,3,130236,2025-04-07,Bengaluru,Cash
+924,T-Shirt,Fashion,8049,4,32196,2023-01-24,Mumbai,UPI
+925,Pen Pack,Stationery,43288,4,173152,2024-09-09,Kolkata,Cash
+926,Notebook,Stationery,44260,4,177040,2025-06-26,Bengaluru,Credit Card
+927,Air Fryer,Home Appliances,15811,1,15811,2025-04-07,Kolkata,Cash
+928,Jeans,Fashion,24364,5,121820,2025-08-27,Kolkata,Cash
+929,Mixer Grinder,Home Appliances,43995,4,175980,2025-08-15,Pune,Debit Card
+930,Shoes,Fashion,30142,5,150710,2024-07-03,Chennai,Credit Card
+931,Mixer Grinder,Home Appliances,6354,4,25416,2024-12-24,Indore,Net Banking
+932,T-Shirt,Fashion,43334,3,130002,2023-02-22,Bengaluru,Net Banking
+933,Headphones,Electronics,9088,3,27264,2025-11-05,Jaipur,Cash
+934,Air Fryer,Home Appliances,44383,3,133149,2025-03-23,Ahmedabad,Cash
+935,Pen Pack,Stationery,964,1,964,2023-04-04,Delhi,Cash
+936,T-Shirt,Fashion,33886,5,169430,2023-08-01,Indore,Cash
+937,Air Fryer,Home Appliances,32572,3,97716,2024-07-27,Indore,Credit Card
+938,Shoes,Fashion,8057,2,16114,2025-11-19,Kolkata,UPI
+939,Shoes,Fashion,28983,2,57966,2023-11-11,Chennai,Debit Card
+940,Headphones,Electronics,4351,5,21755,2025-08-05,Ahmedabad,Credit Card
+941,T-Shirt,Fashion,47502,5,237510,2024-01-22,Hyderabad,Net Banking
+942,Headphones,Electronics,20174,5,100870,2025-08-27,Mumbai,UPI
+943,Smartphone,Electronics,49798,3,149394,2024-01-11,Chennai,Cash
+944,Headphones,Electronics,40480,1,40480,2025-12-01,Delhi,UPI
+945,T-Shirt,Fashion,38955,4,155820,2024-10-08,Kolkata,Credit Card
+946,Air Fryer,Home Appliances,32721,3,98163,2023-06-11,Ahmedabad,Net Banking
+947,T-Shirt,Fashion,27984,1,27984,2024-04-25,Indore,Cash
+948,Mixer Grinder,Home Appliances,22436,2,44872,2023-03-20,Indore,Credit Card
+949,Jeans,Fashion,5912,5,29560,2024-07-27,Mumbai,Net Banking
+950,Pen Pack,Stationery,23295,5,116475,2023-11-15,Pune,Debit Card
+951,Headphones,Electronics,20378,5,101890,2024-09-18,Pune,Net Banking
+952,T-Shirt,Fashion,40457,3,121371,2024-06-08,Delhi,Net Banking
+953,Smartphone,Electronics,22514,3,67542,2025-04-15,Ahmedabad,Debit Card
+954,Jeans,Fashion,30341,1,30341,2024-05-19,Pune,UPI
+955,Shoes,Fashion,48977,1,48977,2025-01-14,Chennai,UPI
+956,Smartphone,Electronics,16713,5,83565,2023-07-12,Delhi,Net Banking
+957,Headphones,Electronics,41110,2,82220,2025-04-21,Kolkata,Cash
+958,Jeans,Fashion,28528,1,28528,2023-03-04,Hyderabad,Cash
+959,Pen Pack,Stationery,49918,5,249590,2023-07-30,Ahmedabad,UPI
+960,Headphones,Electronics,43254,4,173016,2023-12-29,Jaipur,Cash
+961,Laptop,Electronics,34949,3,104847,2023-04-04,Chennai,Credit Card
+962,Smartphone,Electronics,6135,3,18405,2024-08-25,Bengaluru,Net Banking
+963,Headphones,Electronics,46118,5,230590,2024-07-07,Jaipur,UPI
+964,Laptop,Electronics,21913,3,65739,2024-07-27,Ahmedabad,Credit Card
+965,Smartphone,Electronics,31806,2,63612,2023-06-23,Mumbai,Credit Card
+966,Laptop,Electronics,44626,3,133878,2024-09-26,Indore,Cash
+967,Air Fryer,Home Appliances,25671,1,25671,2024-08-19,Bengaluru,Cash
+968,Smartphone,Electronics,45729,3,137187,2025-04-28,Pune,Credit Card
+969,Mixer Grinder,Home Appliances,44767,2,89534,2023-05-04,Pune,Debit Card
+970,Shoes,Fashion,29432,4,117728,2024-10-27,Hyderabad,Net Banking
+971,Headphones,Electronics,10914,1,10914,2024-08-08,Indore,Debit Card
+972,T-Shirt,Fashion,19707,4,78828,2023-05-13,Indore,UPI
+973,Laptop,Electronics,43722,4,174888,2025-09-18,Indore,UPI
+974,Headphones,Electronics,49449,3,148347,2024-03-23,Kolkata,Debit Card
+975,Headphones,Electronics,14707,5,73535,2023-11-29,Indore,Credit Card
+976,T-Shirt,Fashion,1713,5,8565,2023-08-08,Bengaluru,Debit Card
+977,Smartphone,Electronics,45943,1,45943,2025-04-21,Jaipur,Credit Card
+978,Notebook,Stationery,20310,5,101550,2023-08-05,Bengaluru,Net Banking
+979,Mixer Grinder,Home Appliances,49736,3,149208,2023-08-13,Ahmedabad,Credit Card
+980,Jeans,Fashion,32303,1,32303,2025-11-10,Ahmedabad,Net Banking
+981,Pen Pack,Stationery,20815,4,83260,2023-02-15,Hyderabad,Net Banking
+982,Air Fryer,Home Appliances,32894,4,131576,2024-09-12,Mumbai,Debit Card
+983,Laptop,Electronics,25232,3,75696,2024-04-05,Chennai,Cash
+984,Smartphone,Electronics,510,1,510,2023-11-08,Pune,Credit Card
+985,Smartphone,Electronics,7854,3,23562,2024-06-14,Pune,Net Banking
+986,Mixer Grinder,Home Appliances,46424,1,46424,2024-06-30,Delhi,Net Banking
+987,Shoes,Fashion,29046,3,87138,2023-12-22,Mumbai,Cash
+988,Smartphone,Electronics,36486,2,72972,2023-10-31,Chennai,Credit Card
+989,Jeans,Fashion,42090,4,168360,2024-01-08,Pune,Net Banking
+990,Jeans,Fashion,7288,4,29152,2023-01-28,Kolkata,Debit Card
+991,Notebook,Stationery,41129,1,41129,2025-12-07,Kolkata,Cash
+992,T-Shirt,Fashion,343,3,1029,2024-03-08,Chennai,Cash
+993,Mixer Grinder,Home Appliances,24751,3,74253,2024-05-14,Jaipur,Credit Card
+994,Pen Pack,Stationery,12100,5,60500,2025-02-17,Jaipur,Credit Card
+995,Smartphone,Electronics,41826,5,209130,2024-06-20,Chennai,Debit Card
+996,Mixer Grinder,Home Appliances,31819,5,159095,2025-12-30,Delhi,UPI
+997,Mixer Grinder,Home Appliances,13331,4,53324,2025-08-03,Hyderabad,Debit Card
+998,Shoes,Fashion,4273,3,12819,2023-07-22,Mumbai,UPI
+999,Headphones,Electronics,9629,3,28887,2025-02-11,Ahmedabad,Net Banking
+1000,Air Fryer,Home Appliances,46855,2,93710,2025-12-07,Pune,UPI

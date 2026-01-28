@@ -1,0 +1,47 @@
+Which are possible Measures you can create from this table?
+Basic Aggergations
+Total Amount
+Maximum
+Minimum
+Average
+
+Intemediate Aggregations
+Category Wise Amount
+City Wise Amount
+Month Wise
+Payment Method Wise
+Year Wise Amount
+
+Logical DAX functions
+If Paid with Credit Card Give Instant Discount of 500 for
+Sales Amount>25000
+AND if
+
+April May June (Month="April" || Month="MAy" || Month="June" )
+UPI && (Payment="UPI")
+Amount>25000  && (Amount>25000)
+1000 discount
+if ((Month="April" || Month="MAy" || Month="June" ) &&(Payment="UPI")
+&& (Amount>25000),1000,0)
+
+New Table
+CalulateTable
+
+Calculate
+Filter
+New Measure
+
+Total Amount (Mumbai)
+Calculate(sum(amount),City="Mumbai")
+
+Total Amount of Mumbai with UPI Payment and YEar 2024
+Calculate(sum(amount),FILTER(table,city="Mumbai",Payment=UPI, YEar=2024)
+
+Time Series DAX Functions
+
+Satsitical DAX Functions
+
+Text Based DAX Functions
+
+
+
