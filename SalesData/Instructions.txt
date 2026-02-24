@@ -1,0 +1,12 @@
+excel
+data --> import
+Power query editor
+Merge  Query
+Data cleaning
+Transformation
+Add Columns
+Remove Columns
+Change the positions of columns
+create a master table
+Pivot tables
+Dashboard
